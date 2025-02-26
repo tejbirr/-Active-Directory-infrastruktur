@@ -1,4 +1,4 @@
-REPORT:DCSG1005 Individuell Prosjekt 
+DCSG1005 Individuell Prosjekt 
 
 ## Mål for Prosjektet: 
 
