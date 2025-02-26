@@ -17,7 +17,7 @@ Prosjektet bestod av fire Windows-maskiner koblet til en domenekontroller. AD-st
 2. **Oppretting av globale avdelingsgrupper:** Feilmeldingen *"Add-ADGroupMember: Cannot find an object with identity"* skyldtes bruk av feil gruppenavn. Løsningen var å bruke "Group name (pre-Windows 2000)" i stedet.
 
 ## Lærdom og Erfaring
-Prosjektet var utfordrende, men lærerikt. Gjennom gjentatte konfigurasjoner og feilsøking fikk jeg bedre forståelse for AD, Group Policy og PowerShell. Det å følge et organisasjonskart nøye viste seg å være essensielt for en vellykket implementering.
+Prosjektet var utfordrende, men lærerikt. Gjennom gjentatte konfigurasjoner og feilsøking fikk jeg bedre forståelse for AD, Group Policy, Scripting og PowerShell. Det å følge et organisasjonskart nøye viste seg å være essensielt for en vellykket implementering.
 
 ## AI Bruk
 Ingen AI-verktøy ble brukt i prosjektet. Veiledningsvideoer fra emnelæreren og hjelp fra læringsassistenter var avgjørende for gjennomføringen.
