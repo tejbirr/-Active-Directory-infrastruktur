@@ -1,0 +1,5 @@
+validate:
+  image: gossin/secsrv-cicd:2112
+  script:
+    - pwsh -Command 'Invoke-ScriptAnalyzer -ExcludeRule "PSAvoidUsingConvertToSecureStringWithPlainText","PSUseBOMForUnicodeEncodedFile" -EnableExit -Recurse code/*'
+
